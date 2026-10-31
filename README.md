@@ -8,7 +8,9 @@ We are going to build a user-friendly news research tool designed for effortless
 - Construct an embedding vector using HuggingFace embeddings and leverage ChromaDB as the vectorstore, to enable swift and effective retrieval of relevant information.
 - Interact with the LLM's (Llama3 via Groq) by inputting queries and receiving answers along with source URLs.
 
+## Live Demo
 
+Try the application: https://real-estate-rag-research-tool-huwjtijkhmgtjttsmegyqw.streamlit.app/
 ### Set-up
 
 1. Run the following command to install all dependencies. 
